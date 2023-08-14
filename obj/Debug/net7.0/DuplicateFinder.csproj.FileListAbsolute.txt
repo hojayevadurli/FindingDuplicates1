@@ -1,0 +1,17 @@
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\DuplicateFinder.exe
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\DuplicateFinder.deps.json
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\DuplicateFinder.runtimeconfig.json
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\DuplicateFinder.dll
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\DuplicateFinder.pdb
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.csproj.AssemblyReference.cache
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.AssemblyInfoInputs.cache
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.AssemblyInfo.cs
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.csproj.CoreCompileInputs.cache
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.csproj.CopyComplete
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.dll
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\refint\DuplicateFinder.dll
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.pdb
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\DuplicateFinder.genruntimeconfig.cache
+C:\Users\hojay\source\repos\homework-hojayevadurli\code\DuplicateFinder\obj\Debug\net7.0\ref\DuplicateFinder.dll
